@@ -1,0 +1,12 @@
+{
+  "name": "github-user-finder",
+  "version": "1.0.0",
+  "description": "GitHub profile finder using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
